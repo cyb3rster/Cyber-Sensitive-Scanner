@@ -1,3 +1,11 @@
+# 🛡️ C-SIS: Cyberster Sensitive Info Scanner
+
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![Python](https://img.shields.io/badge/Language-Python-cyan)
+![Security](https://img.shields.io/badge/Focus-Data_Privacy-blue)
+
+> **"Don't let your secrets be public knowledge."**
+
 # Cyberster Sensitive Info Scanner (C-SIS)
 
 C-SIS is a professional, standalone CLI tool designed to recursively scan folders for sensitive information such as API keys, database connection strings, emails, and credentials.
